@@ -1,0 +1,53 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    color: var(--movie-title-color);
+    font-weight: 500;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    min-height: 230px;
+
+    @media screen and (min-width: 768px) {
+        min-height: 215px;
+    }
+}
+
+footer {
+    margin-top: auto;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
