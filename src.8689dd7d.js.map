@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":[],"mappings":";;;AAEA,aAFA,QAAA,oBACA,QAAA,iCACA,QAAA","file":"src.8689dd7d.js","sourceRoot":"../src","sourcesContent":["import './sass/main.scss';\nimport './js/api_firebase/apiFirebase';\nimport './js/base/refs';\n\n"]}
