@@ -1,4 +1,5 @@
 import './sass/main.scss';
-import './js/api_firebase/apiFirebase';
+import './js/api_firebase/apiFirebaseConf';
 import './js/base/refs';
+import './js/api_firebase/auth';
 
